@@ -1,3 +1,7 @@
+#![allow(non_snake_case)]
+
+mod p001;
+
 fn main() {
-    println!("Hello, world!");
+    println!("{}", p001::solve());
 }
