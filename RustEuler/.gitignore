@@ -1,0 +1,6 @@
+**/*.rs.bk
+/target/
+RustEuler.iml
+Cargo.lock
+/.idea/
+

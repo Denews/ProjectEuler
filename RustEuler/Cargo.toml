@@ -1,0 +1,6 @@
+[package]
+name = "RustEuler"
+version = "0.1.0"
+authors = ["Denews <gkvms963@naver.com>"]
+
+[dependencies]
