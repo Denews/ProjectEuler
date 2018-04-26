@@ -1,7 +1,7 @@
 #![allow(non_snake_case)]
 
-mod p003;
+mod p004;
 
 fn main() {
-    println!("{}", p003::solve());
+    println!("{}", p004::solve());
 }
