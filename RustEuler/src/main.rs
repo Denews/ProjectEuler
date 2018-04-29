@@ -1,7 +1,8 @@
 #![allow(non_snake_case)]
+extern crate num;
 
-mod p004;
+mod p005;
 
 fn main() {
-    println!("{}", p004::solve());
+    println!("{}", p005::solve());
 }
